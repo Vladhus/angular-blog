@@ -1,7 +1,9 @@
 # AngularBlog
 This is SPA "Angular blog" whitch is basically blog and admin panel for post moderation using quil as a text editor and firebase as a database + identity.
+
 You can access it via link :
 https://angular-hus-blog.web.app/
+
 And you can access admin panel via link: 
 https://angular-hus-blog.web.app/admin
 
